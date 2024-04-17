@@ -2,10 +2,6 @@
 
 This is a simple webpage created using HTML and CSS where the name bounces up and down while changing its color.
 
-## Preview
-
-[Include a screenshot or gif of your webpage here]
-
 ## How to Use
 
 1. Clone this repository to your local machine.
